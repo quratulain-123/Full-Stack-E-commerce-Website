@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDcF2uXa5XEoPY851QW667wyw5NICyLU7g",
+   // apiKey deleted because of privacy
   authDomain: "minimart-a5d74.firebaseapp.com",
   projectId: "minimart-a5d74",
   storageBucket: "minimart-a5d74.appspot.com",
